@@ -1,2 +1,5 @@
 # Hacker-Rank
-I have just started using Hackerrank and this repository will contain all the problems that i solve on hackerrank
+
+This Repository contains all the problem that I will solve on Hacker Rank.
+
+I will solve 1 problem a day on HackerRank and will post all those here.
