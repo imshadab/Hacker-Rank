@@ -1,0 +1,14 @@
+def diagonalDifference(a):
+    print(a)
+    i = 0
+    j = 0
+    k = len(a) - 1
+    dia_1 = 0
+    dia_2 = 0
+    for x in range(len(a)):
+        dia_1 += a[i][j]
+        dia_2 += a[i][k]
+        i += 1
+        j += 1
+        k -= 1
+    return abs(dia_1 - dia_2)
