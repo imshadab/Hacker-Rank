@@ -6,4 +6,5 @@ def solve(a, b):
             alice += 1
         elif a[i] < b[i]:
             bob += 1
-    return [alice, bob]
+    print("The totakl of alice is   ", alice, " and the total of bob is", bob)
+    
